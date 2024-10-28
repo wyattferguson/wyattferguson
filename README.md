@@ -1,4 +1,5 @@
-Wyatt Ferguson
-https://wyattferguson.github.io
-https://github.com/wyattferguson
-wyattf@gmail.com
+# :cactus: Wyatt Ferguson
+
+https://wyattferguson.github.io <br>
+https://github.com/wyattferguson <br>
+Any questions just email wyattf@gmail.com
